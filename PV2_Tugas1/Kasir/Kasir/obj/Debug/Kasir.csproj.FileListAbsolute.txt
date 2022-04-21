@@ -1,0 +1,17 @@
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\bin\Debug\Kasir.exe
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\bin\Debug\Kasir.pdb
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.csprojResolveAssemblyReference.cache
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.MainForm.resources
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.Cache
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.exe
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.pdb
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\bin\Debug\Kasir.exe.config
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\bin\Debug\Kasir.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\bin\Debug\Kasir.pdb
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\obj\Debug\Kasir.csproj.AssemblyReference.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\obj\Debug\Kasir.csproj.SuggestedBindingRedirects.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\obj\Debug\Kasir.MainForm.resources
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\obj\Debug\Kasir.csproj.CoreCompileInputs.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\obj\Debug\Kasir.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Laboratorium\PV-master\PV-master\Kasir\Kasir\obj\Debug\Kasir.pdb
